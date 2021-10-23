@@ -1,0 +1,2 @@
+# training
+Azure + GitHub training
